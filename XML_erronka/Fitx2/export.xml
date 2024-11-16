@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<kanpinak>
+    <kanpina id="PVI00001">
+        <izena>IBAYA</izena>
+        <deskribapena>Gasteizko erdialdetik bost kilometrora dagoen kanpina da, inguru lasai batean, jarduera ugari pra...</deskribapena>
+        <kategoria>T</kategoria>
+        <edukiera>250</edukiera>
+        <kokalekua>Araba/Álava</kokalekua>
+        <helbidea>
+            <kalea>Zuazo de Vitoria, 21</kalea>
+            <postaKodea>01195</postaKodea>
+            <herria id="1">Araba/Álava</herria>
+            <probintzia id="59">Vitoria-Gasteiz</probintzia>
+        </helbidea>
+        <telefonoa>945147620</telefonoa>
+        <emaila>info@campingibaia.com</emaila>
+        <webgunea>http://www.campingibaia.com</webgunea>
+        <estekak>
+            <friendly>https://turismoa.euskadi.eus/eu/ostatuak/ibaya-kanpina/aa30-12375/eu/</friendly>
+            <physical>https://turismoa.euskadi.eus/aa30-12375/eu/contenidos/a_alojamiento/0000000645_a1_rec_turismo/eu_645/645-ficha2.html</physical>
+        </estekak>
+        <fitxategiak>
+            <dataXML>https://turismoa.euskadi.eus/contenidos/a_alojamiento/0000000645_a1_rec_turismo/eu_645/data/645_openData.xml</dataXML>
+            <metadataXML>https://turismoa.euskadi.eus/contenidos/a_alojamiento/0000000645_a1_rec_turismo/r01Index/0000000645_a1_rec_turismo-idxContent.xml</metadataXML>
+            <zipFile>https://turismoa.euskadi.eus/contenidos/a_alojamiento/0000000645_a1_rec_turismo/opendata/0000000645_a1_rec_turismo.zip</zipFile>
+        </fitxategiak>
+    </kanpina>
+    <kanpina id="PVI00003">
+        <izena>EL ROBLE VERDE</izena>
+        <deskribapena>El Roble Verde kanpina Arabako hegoaldean dago, Pobes eta Argantzun herrian arten. Familia a...</deskribapena>
+        <kategoria>P</kategoria>
+        <edukiera>520</edukiera>
+        <kokalekua>Araba/Álava</kokalekua>
+        <helbidea>
+            <kalea>Lasierra, 0</kalea>
+            <postaKodea>01428</postaKodea>
+            <herria id="1">Araba/Álava</herria>
+            <probintzia id="46">Erriberagoitia/Ribera Alta</probintzia>
+        </helbidea>
+        <telefonoa>945063350</telefonoa>
+        <emaila>info@campingelrobleverde.com</emaila>
+        <webgunea>http://www.campingelrobleverde.com</webgunea>
+        <estekak>
+            <friendly>https://turismoa.euskadi.eus/eu/ostatuak/camping-el-roble-verde-kanpina/aa30-12375/eu/</friendly>
+            <physical>https://turismoa.euskadi.eus/aa30-12375/eu/contenidos/a_alojamiento/0000041941_a1_rec_turismo/eu_41941/41941-ficha2.html</physical>
+        </estekak>
+        <fitxategiak>
+            <dataXML>https://turismoa.euskadi.eus/contenidos/a_alojamiento/0000041941_a1_rec_turismo/eu_41941/data/41941_openData.xml</dataXML>
+            <metadataXML>https://turismoa.euskadi.eus/contenidos/a_alojamiento/0000041941_a1_rec_turismo/r01Index/0000041941_a1_rec_turismo-idxContent.xml</metadataXML>
+            <zipFile>https://turismoa.euskadi.eus/contenidos/a_alojamiento/0000041941_a1_rec_turismo/opendata/0000041941_a1_rec_turismo.zip</zipFile>
+        </fitxategiak>
+    </kanpina>
+    <kanpina id="PVI00002">
+        <izena>ANGOSTO</izena>
+        <deskribapena>Valdegovia-Gaubean dagoen lehen mailako kanpina da, Valderejoko Parke Naturaletik gertu. Den...</deskribapena>
+        <kategoria>P</kategoria>
+        <edukiera>244</edukiera>
+        <kokalekua>Araba/Álava</kokalekua>
+        <helbidea>
+            <kalea>Carretera Angosto, 2-BIS</kalea>
+            <postaKodea>01426</postaKodea>
+            <herria id="1">Araba/Álava</herria>
+            <probintzia id="55">Valdegovía/Gaubea</probintzia>
+        </helbidea>
+        <telefonoa>945353271</telefonoa>
+        <emaila>info@camping-angosto.com</emaila>
+        <webgunea>https://www.camping-angosto.com/</webgunea>
+        <estekak>
+            <friendly>https://turismoa.euskadi.eus/eu/ostatuak/camping-angosto-kanpina/aa30-12375/eu/</friendly>
+            <physical>https://turismoa.euskadi.eus/aa30-12375/eu/contenidos/a_alojamiento/0000000654_a1_rec_turismo/eu_654/654-ficha2.html</physical>
+        </estekak>
+        <fitxategiak>
+            <dataXML>https://turismoa.euskadi.eus/contenidos/a_alojamiento/0000000654_a1_rec_turismo/eu_654/data/654_openData.xml</dataXML>
+            <metadataXML>https://turismoa.euskadi.eus/contenidos/a_alojamiento/0000000654_a1_rec_turismo/r01Index/0000000654_a1_rec_turismo-idxContent.xml</metadataXML>
+            <zipFile>https://turismoa.euskadi.eus/contenidos/a_alojamiento/0000000654_a1_rec_turismo/opendata/0000000654_a1_rec_turismo.zip</zipFile>
+        </fitxategiak>
+    </kanpina>
+</kanpinak>

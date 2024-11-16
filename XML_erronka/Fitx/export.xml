@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<kanpinak>
+    <kanpina id="PSS00010">
+        <izena>SATURRARAN</izena>
+        <deskribapena>Berdegunez inguratutako kanpina da Saturraran, eta hondartzatik 100 metrora dago. Naturaz gozatze...</deskribapena>
+        <kategoria>T</kategoria>
+        <edukiera>100</edukiera>
+        <kokalekua>Mijoa | Diseminado</kokalekua>
+        <helbidea>
+            <kalea>Mijoa, 27</kalea>
+            <postaKodea>20830</postaKodea>
+            <herria id="56">Mutriku</herria>
+            <probintzia id="20">Gipuzkoa</probintzia>
+        </helbidea>
+        <emaila>campsaturraran@hotmail.com</emaila>
+        <webgunea>http://www.campingsaturraran.com</webgunea>
+        <estekak>
+            <friendly>https://turismoa.euskadi.eus/eu/ostatuak/saturraran-kanpina/aa30-12375/eu/</friendly>
+            <physical>https://turismoa.euskadi.eus/aa30-12375/eu/contenidos/a_alojamiento/0000000653_a1_rec_turismo/eu_653/653-ficha2.html</physical>
+        </estekak>
+        <fitxategiak>
+            <dataXML>https://turismoa.euskadi.eus/contenidos/a_alojamiento/0000000653_a1_rec_turismo/eu_653/data/653_openData.xml</dataXML>
+            <metadataXML>https://turismoa.euskadi.eus/contenidos/a_alojamiento/0000000653_a1_rec_turismo/r01Index/0000000653_a1_rec_turismo-idxContent.xml</metadataXML>
+            <zipFile>https://turismoa.euskadi.eus/contenidos/a_alojamiento/0000000653_a1_rec_turismo/opendata/0000000653_a1_rec_turismo.zip</zipFile>
+        </fitxategiak>
+    </kanpina>
+    <kanpina id="PSS00009">
+        <izena>AITZETA</izena>
+        <deskribapena>Mutrikuko erdigunetik gertu dagoen kanpina da, mendi baten gainan eta itsasoari begira. 360 perts...</deskribapena>
+        <kategoria>T</kategoria>
+        <edukiera>271</edukiera>
+        <kokalekua/>
+        <helbidea>
+            <kalea>Laranga Auzoa 35</kalea>
+            <postaKodea>20830</postaKodea>
+            <herria id="56">Mutriku</herria>
+            <probintzia id="20">Gipuzkoa</probintzia>
+        </helbidea>
+        <telefonoa>943603356</telefonoa>
+        <emaila>f.aitzeta@hotmail.com</emaila>
+        <webgunea>https://www.campingseuskadi.com/aitzeta/</webgunea>
+        <estekak>
+            <friendly>https://turismoa.euskadi.eus/eu/ostatuak/aritzeta-kanpina/aa30-12375/eu/</friendly>
+            <physical>https://turismoa.euskadi.eus/aa30-12375/eu/contenidos/a_alojamiento/0000000642_a1_rec_turismo/eu_642/642-ficha2.html</physical>
+        </estekak>
+        <fitxategiak>
+            <dataXML>https://turismoa.euskadi.eus/contenidos/a_alojamiento/0000000642_a1_rec_turismo/eu_642/data/642_openData.xml</dataXML>
+            <metadataXML>https://turismoa.euskadi.eus/contenidos/a_alojamiento/0000000642_a1_rec_turismo/r01Index/0000000642_a1_rec_turismo-idxContent.xml</metadataXML>
+            <zipFile>https://turismoa.euskadi.eus/contenidos/a_alojamiento/0000000642_a1_rec_turismo/opendata/0000000642_a1_rec_turismo.zip</zipFile>
+        </fitxategiak>
+    </kanpina>
+    <kanpina id="PSS00012">
+        <izena>GALDONA</izena>
+        <deskribapena>Mutriku eta Ondarroaren artean dago kanpina. Zuhaitz asko ditu inguruan eta kanpatzeko gune berde...</deskribapena>
+        <kategoria>T</kategoria>
+        <edukiera>120</edukiera>
+        <kokalekua>Galdona | Diseminado</kokalekua>
+        <helbidea>
+            <kalea>Galdona, 17</kalea>
+            <postaKodea>20830</postaKodea>
+            <herria id="56">Mutriku</herria>
+            <probintzia id="20">Gipuzkoa</probintzia>
+        </helbidea>
+        <telefonoa>943 603 5</telefonoa>
+        <emaila>mirengaldona@hotmail.com</emaila>
+        <webgunea>http://www.campinggaldona.com</webgunea>
+        <estekak>
+            <friendly>https://turismoa.euskadi.eus/eu/ostatuak/galdona-kanpina/aa30-12375/eu/</friendly>
+            <physical>https://turismoa.euskadi.eus/aa30-12375/eu/contenidos/a_alojamiento/0000000644_a1_rec_turismo/eu_644/644-ficha2.html</physical>
+        </estekak>
+        <fitxategiak>
+            <dataXML>https://turismoa.euskadi.eus/contenidos/a_alojamiento/0000000644_a1_rec_turismo/eu_644/data/644_openData.xml</dataXML>
+            <metadataXML>https://turismoa.euskadi.eus/contenidos/a_alojamiento/0000000644_a1_rec_turismo/r01Index/0000000644_a1_rec_turismo-idxContent.xml</metadataXML>
+            <zipFile>https://turismoa.euskadi.eus/contenidos/a_alojamiento/0000000644_a1_rec_turismo/opendata/0000000644_a1_rec_turismo.zip</zipFile>
+        </fitxategiak>
+    </kanpina>
+    <kanpina id="PSS00013">
+        <izena>SANTA ELENA</izena>
+        <deskribapena>Mutriku inguratzen duten mendietako baten goialdean kokaturiko kanpina da, naturaren edertasunean...</deskribapena>
+        <kategoria>T</kategoria>
+        <edukiera>120</edukiera>
+        <kokalekua>Galdona | Diseminado</kokalekua>
+        <helbidea>
+            <kalea>Galdona, 4</kalea>
+            <postaKodea>20830</postaKodea>
+            <herria id="56">Mutriku</herria>
+            <probintzia id="20">Gipuzkoa</probintzia>
+        </helbidea>
+        <emaila>info@camping-santaelena.com</emaila>
+        <estekak>
+            <friendly>https://turismoa.euskadi.eus/eu/ostatuak/santa-elena-kanpina/aa30-12375/eu/</friendly>
+            <physical>https://turismoa.euskadi.eus/aa30-12375/eu/contenidos/a_alojamiento/0000000639_a1_rec_turismo/eu_639/639-ficha2.html</physical>
+        </estekak>
+        <fitxategiak>
+            <dataXML>https://turismoa.euskadi.eus/contenidos/a_alojamiento/0000000639_a1_rec_turismo/eu_639/data/639_openData.xml</dataXML>
+            <metadataXML>https://turismoa.euskadi.eus/contenidos/a_alojamiento/0000000639_a1_rec_turismo/r01Index/0000000639_a1_rec_turismo-idxContent.xml</metadataXML>
+            <zipFile>https://turismoa.euskadi.eus/contenidos/a_alojamiento/0000000639_a1_rec_turismo/opendata/0000000639_a1_rec_turismo.zip</zipFile>
+        </fitxategiak>
+    </kanpina>
+</kanpinak>

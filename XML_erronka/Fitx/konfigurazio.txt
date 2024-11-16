@@ -1,0 +1,4 @@
+ xml_import_path = Fitx/kanpinak.xml
+db_user = ERRONKA001
+db_password = ERRONKA001
+db_url = jdbc:oracle:thin:@//localhost:1521/XEPDB1
